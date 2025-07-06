@@ -63,7 +63,7 @@ npm start
 
 ## 📸 Screenshots
 
-> Add screenshots of the running chat UI here.
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/853a9d93-bfb0-4a9f-b0af-a7485d09cb0a" />
 
 ## 📚 Future Enhancements
 
