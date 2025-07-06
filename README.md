@@ -1,12 +1,6 @@
 # 💬 Real-Time Chat Application
 
-A real-time chat application built with **React.js** on the frontend and **Socket.IO (WebSockets)** on the backend. This project is developed as part of **CODTECH Internship Task-2**.
-
-## 📌 Task Instructions (from CODTECH)
-
-> ✅ **Task-2: Real-Time Chat Application**  
-> 🔸 Build a real-time chat application using WebSockets and a frontend framework like **React.js** or **Vue.js**.  
-> 🔸 Deliverable: A responsive chat interface with message history.  
+A real-time chat application built with **React.js** on the frontend and **Socket.IO (WebSockets)** on the backend.
 
 ## 🚀 Features
 
@@ -78,16 +72,11 @@ npm start
 - Enhance UI/UX with timestamps, chat bubbles
 - Deploy on Render/Heroku
 
-## 🏁 Project Status
-
-✅ Completed as part of **CODTECH Internship Task-2**  
-📅 July 2025
 
 ## 🙋‍♂️ Author
 
-**2k Mani**  
-📧 [your-email@example.com]  
-🌐 [your-portfolio.com](https://your-portfolio.com)
+** Manikandaprabhu **  
+📧 [ prabhumani7112005@gmail.com] 
 
 ## 📜 License
 
